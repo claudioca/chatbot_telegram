@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 from telegram.ext import filters
 
 # Token fornecido pelo BotFather
-TOKEN = "8292391534:AAH-4gIJm5czycQuSQtqltqSifBAx5oR_SY"
+TOKEN = "TOKEN"
 
 # Função para responder ao comando /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -59,5 +59,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
    
