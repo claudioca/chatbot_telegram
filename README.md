@@ -217,7 +217,5 @@ Versão: 1.0.0
 ---
 
 <div align="center">
-
 💡 Dica: Mantenha seu bot sempre atualizado para novas funcionalidades e correções de segurança!
-
 </div>
