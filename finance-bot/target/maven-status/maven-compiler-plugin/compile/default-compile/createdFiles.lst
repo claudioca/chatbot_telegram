@@ -1,0 +1,5 @@
+com\financebot\FinanceBot.class
+com\financebot\Main.class
+com\financebot\Database.class
+com\financebot\Transaction.class
+com\financebot\Config.class
